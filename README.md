@@ -8,6 +8,6 @@ Main Window
 Hire Window ...
 ![alt text](https://raw.githubusercontent.com/GupCa/DbCourseWork/master/HireWindow.png)
 ER-Diagram
-![alt text](https://raw.githubusercontent.com/GupCa/DbCourseWork/master/Schema ER.png)
+![alt text](https://raw.githubusercontent.com/GupCa/DbCourseWork/master/SchemaER.png)
 
 
